@@ -2,3 +2,6 @@ in this project i have used
 multer -> image upload
 ejs -> for frontend
 filepond -> for file upload
+(as we used filePond thus we removed mutler as we are not taking multiple files rather just string)
+method-override -> to use put and delete method 
+
