@@ -2,9 +2,10 @@
 @import "shared/variables.css";
 @import "shared/header.css";
 @import "shared/button.css";
+@import "shared/form.css";
 
 :root {
-  font-family: "GothamRounded";
+  font-family: "Gotham Rounded";
   font-size: 20px;
   color: var(--color-text-light);
 }
